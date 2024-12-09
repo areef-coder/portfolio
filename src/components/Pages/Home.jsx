@@ -75,8 +75,8 @@ export default function Home() {
                   variant="h3"
                   sx={{
                     fontFamily: "bubble tea",
-                    color: "pink",
-                    fontSize: "40px",
+                    color: "white",
+                    fontSize: "33px",
                   }}
                 >
                   AREEF MK
