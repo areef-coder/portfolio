@@ -75,11 +75,11 @@ export default function Home() {
                   variant="h2"
                   sx={{
                     fontFamily: "bubble tea",
-                    color: "red",
+                    color: "smoke",
                     fontSize: "45px",
                   }}
                 >
-                  𝓐𝓡𝓔𝓔𝓕 𝓜𝓚
+                  AREEF MK
                 </Typography>
                 <br />
                 <br />
@@ -116,7 +116,7 @@ export default function Home() {
                     fontSize: "35px",
                   }}
                 >
-                  𝚠𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚛
+                  
                 </Typography>
               </motion.div>
             </Grid>
