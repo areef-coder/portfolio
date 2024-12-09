@@ -72,11 +72,11 @@ export default function Home() {
                 sx={{ m: 2 }}
               >
                 <Typography
-                  variant="h2"
+                  variant="h3"
                   sx={{
                     fontFamily: "bubble tea",
                     color: "pink",
-                    fontSize: "45px",
+                    fontSize: "40px",
                   }}
                 >
                   AREEF MK
@@ -91,11 +91,11 @@ export default function Home() {
                 sx={{ m: 2 }}
               >
                 <Typography
-                  variant="h2"
+                  variant="h4"
                   sx={{
                     fontFamily: "bubble tea",
                     color: "whitesmoke",
-                    fontSize: "35px",
+                    fontSize: "25px",
                   }}
                 >
                   𝕨𝕖𝕓 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
