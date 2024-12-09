@@ -75,7 +75,7 @@ export default function Home() {
                   variant="h2"
                   sx={{
                     fontFamily: "bubble tea",
-                    color: "white",
+                    color: "pink",
                     fontSize: "45px",
                   }}
                 >
